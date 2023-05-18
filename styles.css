@@ -1,0 +1,35 @@
+.image {
+    float: left; /* Floats the image to the left */
+    margin: 0 10px 10px 0; /* Adds some margin to create space between the image and text */
+  }
+
+
+  img {
+    float: left; /* Float the image to the left */
+    margin-right: 10px; /* Add some spacing between the image and the text */
+  }
+
+  .responsive-image {
+    max-width: 100%;
+    height: auto;
+  }
+
+  dl {
+    font-size: 1.15em; /* Sets the font size to 1.15 times the root element font size */
+  }
+  
+  dt {
+    font-weight: bold; /* Makes the description list terms bold */
+  }
+  dl {
+    font-size: 1.15em; /* Sets the font size to 1.15 times the root element font size */
+  }
+  
+  dt {
+    font-weight: bold; /* Makes the description list terms bold */
+  }
+  
+  dd {
+    margin-left: 0; /* Removes the default left margin */
+    padding-left: 0; /* Removes the default left padding */
+  }
